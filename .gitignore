@@ -1,1 +1,3 @@
 json/*
+hi/processed/**
+!hi/processed/*.tsvx
